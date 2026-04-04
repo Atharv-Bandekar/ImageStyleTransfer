@@ -72,5 +72,5 @@ Run app.py
 
 ## Demo
 
-(<img src="assets/demo.gif" width="800" />)
+<img src="assets/demo.gif" width="100%" />
 
