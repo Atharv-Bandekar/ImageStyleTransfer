@@ -65,11 +65,6 @@ Run app.py
   streamlit run app.py
 ```
 
-
-## Screenshots
-
-# Project Title
-
 ## Screenshots
 
 ![Screenshot](assets/screenshot.png)
@@ -77,5 +72,5 @@ Run app.py
 
 ## Demo
 
-![Demo](assets/demo.gif)
+(<img src="assets/demo.gif" width="800" />)
 
