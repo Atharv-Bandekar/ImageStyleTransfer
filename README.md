@@ -1,5 +1,5 @@
 
-# Image Style Trnasfer
+# Image Style Transfer 
 
 An interactive web application that applies artistic styles to images using deep learning.  
 This project leverages **transfer learning** to perform fast neural style transfer and allows users to control style intensity in real time.
