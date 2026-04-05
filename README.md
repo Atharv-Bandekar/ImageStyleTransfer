@@ -27,7 +27,7 @@ This project leverages **transfer learning** to perform fast neural style transf
 
 project/
 ├── app.py # Fast real-time style transfer UI
-├── main.py # Baseline (optimization-based NST)
+├── baseline.py # Baseline (optimization-based NST)
 ├── content.jpg # Sample content image
 ├── style.jpg # Sample style image
 ├── README.md
