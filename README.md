@@ -14,14 +14,14 @@ This project leverages **transfer learning** to perform fast neural style transf
 - 💻 Interactive UI built with Streamlit
 
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Transfer Learning (VGG-based architecture)
 - Neural Style Transfer
 - Feature Extraction using CNNs
 - Image Processing with TensorFlow
 
-## ⚙️ Project Structure
+## Project Structure
 
 ```
 
@@ -45,31 +45,37 @@ project/
 
 ## Installation
 
+Clone the repository locally.
+
+```bash
+git clone https://github.com/Atharv-Bandekar/ImageStyleTransfer.git
+```
+
 Create a virtual environment in the root directory.
 
 ```bash
-  python -m venv venv
+python -m venv venv
 ```
 
 Activate the virtual environment.
 
 ```bash
-  ./venv/Scripts/Activate
+./venv/Scripts/Activate
 ```
 
 Install requirements.
 
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Run app.py
 
 ```bash
-  streamlit run app.py
+streamlit run app.py
 ```
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](assets/screenshot.png)
 
